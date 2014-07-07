@@ -1,0 +1,6 @@
+D:\git\tab\Tab\Tab\bin\Tab.dll.config
+D:\git\tab\Tab\Tab\bin\Tab.dll
+D:\git\tab\Tab\Tab\bin\Tab.pdb
+D:\git\tab\Tab\Tab\obj\Debug\Tab.csprojResolveAssemblyReference.cache
+D:\git\tab\Tab\Tab\obj\Debug\Tab.dll
+D:\git\tab\Tab\Tab\obj\Debug\Tab.pdb
